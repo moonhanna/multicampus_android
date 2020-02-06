@@ -12,13 +12,13 @@
 
 3. 키값 정보 세팅
 
-   ![](.\img\getapi.png)
+   ![getapi](https://user-images.githubusercontent.com/36683607/73918509-1d180900-4905-11ea-9556-a0cc2dda0381.png)
 
 4. Android 앱의 사용량 제한 → 항목추가
 
 5. 
 
-   ![](.\img\getapi2.png)
+   ![getapi2](https://user-images.githubusercontent.com/36683607/73918520-20ab9000-4905-11ea-8d67-02998f7971d9.PNG)
 
    
 
@@ -28,7 +28,7 @@
 >
 > > Windows 디지털 지문 복사
 > >
-> > ![](.\img\getapi3.png)
+> > ![getapi3](https://user-images.githubusercontent.com/36683607/73918525-230dea00-4905-11ea-8a51-40b8dc52050c.png)
 > >
 > > cmd → jdk1.8.0_231 > bin 폴더로 이동 후 복사한 값 붙여넣기
 > >
@@ -56,6 +56,6 @@
 
 4. 실행
 
-   ![](.\img\map.PNG)
+   ![map](https://user-images.githubusercontent.com/36683607/73918534-25704400-4905-11ea-81b5-45271da77820.PNG)
 
  

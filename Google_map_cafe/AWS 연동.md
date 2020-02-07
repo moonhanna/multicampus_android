@@ -6,7 +6,7 @@
 
 > 1-1. 연결방법 확인
 >
-> ![](.\img\연결1.png)
+> <img width="767" alt="연결1" src="https://user-images.githubusercontent.com/36683607/74013714-739e4980-49d0-11ea-9f88-aba8a35bdba6.png">
 >
 > 
 >
@@ -25,7 +25,7 @@
 
 > 2-1. 인스턴스 창에서 연결 클릭
 >
-> ![](.\img\연결2.png)
+> <img width="691" alt="연결2" src="https://user-images.githubusercontent.com/36683607/74013716-739e4980-49d0-11ea-9f68-326f8fcfd97b.png">
 >
 > 
 >
@@ -33,7 +33,7 @@
 >
 > > 인스턴스 OS에 root계정으로 접속
 >
-> ![](.\img\연결3.png)
+> <img width="527" alt="연결3" src="https://user-images.githubusercontent.com/36683607/74013718-7436e000-49d0-11ea-8793-5583c9570877.png">
 >
 > 
 >
@@ -41,7 +41,7 @@
 >
 > > 브라우저 기반 연결 확인
 >
-> ![](.\img\연결4.png)
+> <img width="727" alt="연결4" src="https://user-images.githubusercontent.com/36683607/74013719-74cf7680-49d0-11ea-9ffc-71b3cdec82ea.png">
 
 
 
@@ -77,7 +77,7 @@
 >
 > > 퍼블릭 DNS(IPv4)는 인스턴스 연결창에서 확인 가능
 > >
-> > ![](.\img\연결5.png)
+> > <img width="773" alt="연결5" src="https://user-images.githubusercontent.com/36683607/74013722-75680d00-49d0-11ea-8b26-3f550ff641ac.png">
 >
 > 복사된 압축파일을 풀고 소프트링크 걸기
 >
@@ -112,7 +112,8 @@
 
 웹브라우저에서 [IPv4 퍼블릭 IP:포트번호] 입력하여 톰캣이 도는지 확인
 
-![](.\img\확인.png)
+<img width="1053" alt="확인" src="https://user-images.githubusercontent.com/36683607/74013724-75680d00-49d0-11ea-9b70-08cafbdc1d21.png">
+
 
 
 

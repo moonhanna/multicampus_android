@@ -51,9 +51,12 @@
 
    <img width="403" alt="a10" src="https://user-images.githubusercontent.com/36683607/76524135-eeb1be80-64ac-11ea-904d-3828741a44a7.png" />
 
+
    <img width="401" alt="a11" src="https://user-images.githubusercontent.com/36683607/76524139-ef4a5500-64ac-11ea-845c-da5ea58a58c1.PNG" />
 
+
    <img width="253" alt="a12" src="https://user-images.githubusercontent.com/36683607/76524142-efe2eb80-64ac-11ea-8921-4e2c46adf591.PNG">
+
 
    <img width="638" alt="a13" src="https://user-images.githubusercontent.com/36683607/76524145-f07b8200-64ac-11ea-8cd7-7ff23d2be099.png" style="zoom:80%;" />
 
